@@ -1,0 +1,11 @@
+C:\Users\senai\Desktop\Aula15-TryCatch\obj\Debug\netcoreapp3.0\Aula15-TryCatch.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\Aula15-TryCatch\obj\Debug\netcoreapp3.0\Aula15-TryCatch.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\Aula15-TryCatch\obj\Debug\netcoreapp3.0\Aula15-TryCatch.AssemblyInfo.cs
+C:\Users\senai\Desktop\Aula15-TryCatch\bin\Debug\netcoreapp3.0\Aula15-TryCatch.exe
+C:\Users\senai\Desktop\Aula15-TryCatch\bin\Debug\netcoreapp3.0\Aula15-TryCatch.deps.json
+C:\Users\senai\Desktop\Aula15-TryCatch\bin\Debug\netcoreapp3.0\Aula15-TryCatch.runtimeconfig.json
+C:\Users\senai\Desktop\Aula15-TryCatch\bin\Debug\netcoreapp3.0\Aula15-TryCatch.runtimeconfig.dev.json
+C:\Users\senai\Desktop\Aula15-TryCatch\bin\Debug\netcoreapp3.0\Aula15-TryCatch.dll
+C:\Users\senai\Desktop\Aula15-TryCatch\bin\Debug\netcoreapp3.0\Aula15-TryCatch.pdb
+C:\Users\senai\Desktop\Aula15-TryCatch\obj\Debug\netcoreapp3.0\Aula15-TryCatch.dll
+C:\Users\senai\Desktop\Aula15-TryCatch\obj\Debug\netcoreapp3.0\Aula15-TryCatch.pdb
